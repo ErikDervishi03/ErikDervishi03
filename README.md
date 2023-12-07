@@ -1,5 +1,5 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<h1 align="center">Hi there! 👋 I'm ErikDervishi</h1>
+<h1 align="center">Hi there! 👋 I'm Erik Dervishi</h1>
 <h3 align="center">Computer Science Student from Italy 🇮🇹</h3>
 
 ---
