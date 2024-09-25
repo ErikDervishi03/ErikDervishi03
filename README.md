@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my projects at [https://ErikDervishi03.github.io/](https://ErikDervishi03.github.io/)
 
-- 📫 Reach me at **ErikDervishi03.edu@gmail.com**
+- 📫 Reach me at **erikdervishi100@gmail.com**
 
 ---
 <h3>Languages and Tools:</h3>
