@@ -24,8 +24,13 @@
 </p>
 
 ---
-### 🔥 &nbsp; My Stats :
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikDervishi03&count_private=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErikDervishi03&theme=graywhite" />
+  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErikDervishi03&theme=graywhite" />
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikDervishi03&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
----
+
