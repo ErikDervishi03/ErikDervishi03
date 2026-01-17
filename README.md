@@ -1,13 +1,10 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<h1 align="center">Hi there! 👋 I'm Erik Dervishi</h1>
-<h3 align="center">Computer Science Student from Italy 🇮🇹</h3>
+<h1 align="center">I'm Erik Dervishi</h1>
+<h3 align="center">Computer Science Student from Italy </h3>
 
 ---
-- 🌱 Currently learning **C++, Python, Machine Learning**
-
-- 👨‍💻 Check out my projects at [https://ErikDervishi03.github.io/](https://ErikDervishi03.github.io/)
-
-- 📫 Reach me at **erikdervishi100@gmail.com**
+-  Currently learning **C++, Python, Machine Learning**
+-  Reach me at **erikdervishi100@gmail.com**
 
 ---
 <h3>Languages and Tools:</h3>
