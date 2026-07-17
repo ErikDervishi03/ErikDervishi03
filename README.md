@@ -1,4 +1,5 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center"><img width="200" alt="pngwing com" src="https://github.com/user-attachments/assets/a91da8f4-5b90-48a5-8fb0-d332f6ceddf2" />
+</p>
 <h1 align="center">I'm Erik Dervishi</h1>
 <h3 align="center">Computer Science Student from Italy </h3>
 
